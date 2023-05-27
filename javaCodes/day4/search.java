@@ -18,6 +18,7 @@ public class search {
         String s ="10";
         System.out.println(Integer.parseInt(s));
         // System.out.println();
+        System.out.println(s.getClass().getSimpleName());
 
     }
 }

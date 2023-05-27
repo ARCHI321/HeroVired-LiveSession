@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "arrayList",
+            "request": "launch",
+            "mainClass": "javaCodes.day5.arrayList",
+            "projectName": "Hero vired_1216a8b1"
+        },
+        {
+            "type": "java",
             "name": "join",
             "request": "launch",
             "mainClass": "javaCodes.day4.join",
