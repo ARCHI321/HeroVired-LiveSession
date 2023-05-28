@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LibraryManagementSystem",
+            "request": "launch",
+            "mainClass": "javaCodes.day5.LibraryManagementSystem",
+            "projectName": "Hero vired_1216a8b1"
+        },
+        {
+            "type": "java",
+            "name": "dateDiff",
+            "request": "launch",
+            "mainClass": "javaCodes.day5.dateDiff",
+            "projectName": "Hero vired_1216a8b1"
+        },
+        {
+            "type": "java",
+            "name": "sortArrayList",
+            "request": "launch",
+            "mainClass": "javaCodes.day5.sortArrayList",
+            "projectName": "Hero vired_1216a8b1"
+        },
+        {
+            "type": "java",
+            "name": "arraysDemo",
+            "request": "launch",
+            "mainClass": "javaCodes.day5.arraysDemo",
+            "projectName": "Hero vired_1216a8b1"
+        },
+        {
+            "type": "java",
+            "name": "removeFromArray",
+            "request": "launch",
+            "mainClass": "javaCodes.day5.removeFromArray",
+            "projectName": "Hero vired_1216a8b1"
+        },
+        {
+            "type": "java",
+            "name": "arr",
+            "request": "launch",
+            "mainClass": "javaCodes.day5.arr",
+            "projectName": "Hero vired_1216a8b1"
+        },
+        {
+            "type": "java",
             "name": "arrayList",
             "request": "launch",
             "mainClass": "javaCodes.day5.arrayList",
