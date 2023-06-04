@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "fileReader",
+            "request": "launch",
+            "mainClass": "javaCodes.day6.fileReader",
+            "projectName": "Hero vired_1216a8b1"
+        },
+        {
+            "type": "java",
+            "name": "bufferedReaderFileRead",
+            "request": "launch",
+            "mainClass": "javaCodes.day6.bufferedReaderFileRead",
+            "projectName": "Hero vired_1216a8b1"
+        },
+        {
+            "type": "java",
+            "name": "fileReading",
+            "request": "launch",
+            "mainClass": "javaCodes.day6.fileReading",
+            "projectName": "Hero vired_1216a8b1"
+        },
+        {
+            "type": "java",
+            "name": "fileHandling",
+            "request": "launch",
+            "mainClass": "javaCodes.day6.fileHandling",
+            "projectName": "Hero vired_1216a8b1"
+        },
+        {
+            "type": "java",
+            "name": "divisionCalculator",
+            "request": "launch",
+            "mainClass": "javaCodes.day6.divisionCalculator",
+            "projectName": "Hero vired_1216a8b1"
+        },
+        {
+            "type": "java",
+            "name": "errorHandling",
+            "request": "launch",
+            "mainClass": "javaCodes.day6.errorHandling",
+            "projectName": "Hero vired_1216a8b1"
+        },
+        {
+            "type": "java",
+            "name": "filter",
+            "request": "launch",
+            "mainClass": "javaCodes.day6.filter",
+            "projectName": "Hero vired_1216a8b1"
+        },
+        {
+            "type": "java",
             "name": "LibraryManagementSystem",
             "request": "launch",
             "mainClass": "javaCodes.day5.LibraryManagementSystem",
