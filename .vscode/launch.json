@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "samplee",
+            "request": "launch",
+            "mainClass": "javaCodes.day7.samplee",
+            "projectName": "Hero vired_1216a8b1"
+        },
+        {
+            "type": "java",
+            "name": "fileReadCSV",
+            "request": "launch",
+            "mainClass": "javaCodes.day7.fileReadCSV",
+            "projectName": "Hero vired_1216a8b1"
+        },
+        {
+            "type": "java",
+            "name": "file",
+            "request": "launch",
+            "mainClass": "javaCodes.day6.file",
+            "projectName": "Hero vired_1216a8b1"
+        },
+        {
+            "type": "java",
             "name": "fileReader",
             "request": "launch",
             "mainClass": "javaCodes.day6.fileReader",

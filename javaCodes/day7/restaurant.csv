@@ -1,0 +1,4 @@
+waiter,customer,item,sales,orderMode,tipAmount
+Niketan,Ritwik,Chowmein,online,120.0,04/06/2023,12.0,
+Niketan,Archisman,Fried Rice,offline,100.0,04/06/2023,10.0,
+Sourav,Susmita,Chili Chicken and Chowmein,offline,240.0,04/06/2023,30.0,
