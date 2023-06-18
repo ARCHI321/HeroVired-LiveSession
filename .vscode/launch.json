@@ -6,6 +6,104 @@
     "configurations": [
         {
             "type": "java",
+            "name": "multipleInheritance1",
+            "request": "launch",
+            "mainClass": "javaCodes.day10.multipleInheritance1",
+            "projectName": "Hero vired_1216a8b1"
+        },
+        {
+            "type": "java",
+            "name": "TestInterface3",
+            "request": "launch",
+            "mainClass": "javaCodes.day10.TestInterface3",
+            "projectName": "Hero vired_1216a8b1"
+        },
+        {
+            "type": "java",
+            "name": "Honda4",
+            "request": "launch",
+            "mainClass": "javaCodes.day10.Honda4",
+            "projectName": "Hero vired_1216a8b1"
+        },
+        {
+            "type": "java",
+            "name": "TestInterface2",
+            "request": "launch",
+            "mainClass": "javaCodes.day10.TestInterface2",
+            "projectName": "Hero vired_1216a8b1"
+        },
+        {
+            "type": "java",
+            "name": "A6",
+            "request": "launch",
+            "mainClass": "javaCodes.day10.A6",
+            "projectName": "Hero vired_1216a8b1"
+        },
+        {
+            "type": "java",
+            "name": "HelloHouse",
+            "request": "launch",
+            "mainClass": "javaCodes.day10.HelloHouse",
+            "projectName": "Hero vired_1216a8b1"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "javaCodes.day10.HelloWorld",
+            "projectName": "Hero vired_1216a8b1"
+        },
+        {
+            "type": "java",
+            "name": "code3",
+            "request": "launch",
+            "mainClass": "hackerrank_Codes.code3",
+            "projectName": "Hero vired_1216a8b1"
+        },
+        {
+            "type": "java",
+            "name": "code2",
+            "request": "launch",
+            "mainClass": "hackerrank_Codes.code2",
+            "projectName": "Hero vired_1216a8b1"
+        },
+        {
+            "type": "java",
+            "name": "code1",
+            "request": "launch",
+            "mainClass": "hackerrank_Codes.code1",
+            "projectName": "Hero vired_1216a8b1"
+        },
+        {
+            "type": "java",
+            "name": "arrayList",
+            "request": "launch",
+            "mainClass": "javaCodes.day9.arrayList",
+            "projectName": "Hero vired_1216a8b1"
+        },
+        {
+            "type": "java",
+            "name": "smallestValue",
+            "request": "launch",
+            "mainClass": "javaCodes.day9.smallestValue",
+            "projectName": "Hero vired_1216a8b1"
+        },
+        {
+            "type": "java",
+            "name": "StringOprations",
+            "request": "launch",
+            "mainClass": "javaCodes.day8.StringOprations",
+            "projectName": "Hero vired_1216a8b1"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "javaCodes.day8.Test",
+            "projectName": "Hero vired_1216a8b1"
+        },
+        {
+            "type": "java",
             "name": "samplee",
             "request": "launch",
             "mainClass": "javaCodes.day7.samplee",

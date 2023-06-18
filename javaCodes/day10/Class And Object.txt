@@ -1,0 +1,61 @@
+1) Class And Object 
+
+2) Class 
+	i) member variable 
+        ii) member methods
+        ii.1 ) constructors  
+
+// Online Java Compiler
+// Use this editor to write, compile and run your Java code online
+
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+        Room bedroom = new Room(15,15);
+        System.out.println(bedroom.calculateArea());
+        System.out.println(bedroom.calculateArea2());
+    }
+}
+
+class Room {
+    int height  ;
+    int breadth;
+    int length ;
+    int noOfWindow ;
+    
+    Room(int length, int breadth){
+        System.out.println("In the constructo");
+        this.length = length;
+        this.breadth = breadth ;
+    }
+    
+    int calculateArea(){
+        int length = 10;
+        int breadth = 10;
+        return breadth*length ;
+    }
+    
+     int calculateArea2(){
+        return breadth*length ;
+    }
+    
+}
+
+
+OOPS Concepts
+==============
+
+1) Abstraction - 
+	i ) Abstract Class : A class with zero or more abstract methods
+        ii) Interfaces : 
+2) Polymorphisism - 
+                    Dynaminc :  method Overriding : Same Methon name , diff class , but extending each other 
+		    Static : Method Overloding : methods with Same Name but different Signature in same class .
+3) Encapsulation - Access specifiers 
+		 - Public 
+                 - Private 
+   package
+                 - protected 
+                 - default 
+
+4) Inheritance  - Extends 

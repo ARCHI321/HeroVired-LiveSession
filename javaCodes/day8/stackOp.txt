@@ -1,0 +1,47 @@
+String methods in Java along with their return types:
+
+1. `charAt(int index)`: Returns a `char` at the specified index.
+2. `length()`: Returns an `int` representing the length of the string.
+3. `concat(String str)`: Returns a new `String` by concatenating the specified string.
+4. `equals(Object obj)`: Returns a `boolean` indicating whether the string is equal to the specified object.
+5. `equalsIgnoreCase(String str)`: Returns a `boolean` indicating whether the string is equal to the specified string, ignoring case.
+6. `substring(int beginIndex)`: Returns a new `String` that is a substring of the original string, starting from the specified index.
+7. `substring(int beginIndex, int endIndex)`: Returns a new `String` that is a substring of the original string, from the specified begin index to the end index (exclusive).
+8. `indexOf(String str)`: Returns an `int` representing the index of the first occurrence of the specified substring.
+9. `lastIndexOf(String str)`: Returns an `int` representing the index of the last occurrence of the specified substring.
+10. `startsWith(String prefix)`: Returns a `boolean` indicating whether the string starts with the specified prefix.
+11. `endsWith(String suffix)`: Returns a `boolean` indicating whether the string ends with the specified suffix.
+12. `contains(CharSequence sequence)`: Returns a `boolean` indicating whether the string contains the specified sequence.
+13. `replace(char oldChar, char newChar)`: Returns a new `String` by replacing all occurrences of the specified old character with the new character.
+14. `replace(CharSequence target, CharSequence replacement)`: Returns a new `String` by replacing all occurrences of the specified target sequence with the replacement sequence.
+15. `toLowerCase()`: Returns a new `String` with all characters converted to lowercase.
+16. `toUpperCase()`: Returns a new `String` with all characters converted to uppercase.
+17. `trim()`: Returns a new `String` with leading and trailing whitespace removed.
+18. `split(String regex)`: Returns an array of `String` objects by splitting the original string around matches of the specified regular expression.
+19. `join(CharSequence delimiter, CharSequence... elements)`: Returns a new `String` by concatenating the specified elements with the delimiter.
+20. `startsWith(String prefix, int offset)`: Returns a `boolean` indicating whether a substring, starting from the specified offset, starts with the specified prefix.
+21. `endsWith(String suffix, int offset)`: Returns a `boolean` indicating whether a substring, ending at the specified offset, ends with the specified suffix.
+
+
+list of commonly used methods available in the `ArrayList` class:
+
+1. `add(E element)`: Adds an element to the end of the list.
+2. `add(int index, E element)`: Inserts an element at the specified index.
+3. `addAll(Collection<? extends E> collection)`: Adds all elements from a collection to the end of the list.
+4. `addAll(int index, Collection<? extends E> collection)`: Inserts all elements from a collection at the specified index.
+5. `clear()`: Removes all elements from the list.
+6. `contains(Object object)`: Returns `true` if the list contains the specified object.
+7. `get(int index)`: Returns the element at the specified index.
+8. `indexOf(Object object)`: Returns the index of the first occurrence of the specified object.
+9. `isEmpty()`: Returns `true` if the list is empty.
+10. `iterator()`: Returns an iterator over the elements in the list.
+11. `remove(Object object)`: Removes the first occurrence of the specified object from the list.
+12. `remove(int index)`: Removes the element at the specified index.
+13. `removeAll(Collection<?> collection)`: Removes all elements in the list that are also present in the specified collection.
+14. `retainAll(Collection<?> collection)`: Removes all elements from the list except those that are also present in the specified collection.
+15. `set(int index, E element)`: Replaces the element at the specified index with the specified element.
+16. `size()`: Returns the number of elements in the list.
+17. `subList(int fromIndex, int toIndex)`: Returns a view of the portion of the list between the specified `fromIndex` (inclusive) and `toIndex` (exclusive).
+18. `toArray()`: Returns an array containing all elements in the list.
+19. `toString()`: Returns a string representation of the list.
+20. `sort(Comparator<? super E> comparator)`: Sorts the elements in the list using the specified comparator.
