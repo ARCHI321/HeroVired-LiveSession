@@ -6,6 +6,146 @@
     "configurations": [
         {
             "type": "java",
+            "name": "stringBuilderEx1",
+            "request": "launch",
+            "mainClass": "javaCodes.day14.stringBuilderEx1",
+            "projectName": "Hero vired_1216a8b1"
+        },
+        {
+            "type": "java",
+            "name": "GFG",
+            "request": "launch",
+            "mainClass": "javaCodes.day13.GFG",
+            "projectName": "Hero vired_1216a8b1"
+        },
+        {
+            "type": "java",
+            "name": "ImplOne",
+            "request": "launch",
+            "mainClass": "javaCodes.day13.ImplOne",
+            "projectName": "Hero vired_1216a8b1"
+        },
+        {
+            "type": "java",
+            "name": "CustomExceptionOne",
+            "request": "launch",
+            "mainClass": "javaCodes.day13.CustomExceptionOne",
+            "projectName": "Hero vired_1216a8b1"
+        },
+        {
+            "type": "java",
+            "name": "hashmap",
+            "request": "launch",
+            "mainClass": "javaCodes.day13.hashmap",
+            "projectName": "Hero vired_1216a8b1"
+        },
+        {
+            "type": "java",
+            "name": "ex",
+            "request": "launch",
+            "mainClass": "javaCodes.day12.ex",
+            "projectName": "Hero vired_1216a8b1"
+        },
+        {
+            "type": "java",
+            "name": "finalizeex1",
+            "request": "launch",
+            "mainClass": "javaCodes.day12.finalizeex1",
+            "projectName": "Hero vired_1216a8b1"
+        },
+        {
+            "type": "java",
+            "name": "exceptionex2",
+            "request": "launch",
+            "mainClass": "javaCodes.day12.exceptionex2",
+            "projectName": "Hero vired_1216a8b1"
+        },
+        {
+            "type": "java",
+            "name": "exceptionex1",
+            "request": "launch",
+            "mainClass": "javaCodes.day12.exceptionex1",
+            "projectName": "Hero vired_1216a8b1"
+        },
+        {
+            "type": "java",
+            "name": "PolyOverridingEx",
+            "request": "launch",
+            "mainClass": "javaCodes.day12.PolyOverridingEx",
+            "projectName": "Hero vired_1216a8b1"
+        },
+        {
+            "type": "java",
+            "name": "PolyExOne",
+            "request": "launch",
+            "mainClass": "javaCodes.day12.PolyExOne",
+            "projectName": "Hero vired_1216a8b1"
+        },
+        {
+            "type": "java",
+            "name": "polymorphismex2",
+            "request": "launch",
+            "mainClass": "javaCodes.day12.polymorphismex2",
+            "projectName": "Hero vired_1216a8b1"
+        },
+        {
+            "type": "java",
+            "name": "polymorphismex1",
+            "request": "launch",
+            "mainClass": "javaCodes.day12.polymorphismex1",
+            "projectName": "Hero vired_1216a8b1"
+        },
+        {
+            "type": "java",
+            "name": "polymorphism",
+            "request": "launch",
+            "mainClass": "javaCodes.day12.polymorphism",
+            "projectName": "Hero vired_1216a8b1"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "javaCodes.day11.test",
+            "projectName": "Hero vired_1216a8b1"
+        },
+        {
+            "type": "java",
+            "name": "base",
+            "request": "launch",
+            "mainClass": "javaCodes.day11.base",
+            "projectName": "Hero vired_1216a8b1"
+        },
+        {
+            "type": "java",
+            "name": "TestTwo",
+            "request": "launch",
+            "mainClass": "javaCodes.day11.TestTwo",
+            "projectName": "Hero vired_1216a8b1"
+        },
+        {
+            "type": "java",
+            "name": "TestOne",
+            "request": "launch",
+            "mainClass": "javaCodes.day11.TestOne",
+            "projectName": "Hero vired_1216a8b1"
+        },
+        {
+            "type": "java",
+            "name": "practise1",
+            "request": "launch",
+            "mainClass": "javaCodes.assignment2.practise1",
+            "projectName": "Hero vired_1216a8b1"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "javaCodes.assignment2.HelloWorld",
+            "projectName": "Hero vired_1216a8b1"
+        },
+        {
+            "type": "java",
             "name": "multipleInheritance1",
             "request": "launch",
             "mainClass": "javaCodes.day10.multipleInheritance1",
