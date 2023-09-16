@@ -1,0 +1,88 @@
+@import 'https://fonts.googleapis.com/css?family=Roboto:300,400,500';
+body {
+    margin: 0 auto;
+    
+    /* font-family: "Roboto","Helvetica", "Arial", sans-serif; */
+    line-height: 1.5;
+    padding: 4em 1em;
+    color: rgb(28, 28, 99);
+    font-family: MercurySSm-Book-Pro_Web,serif;
+    color: #0a2458;
+    font-size: 16px;
+    
+    padding-left: 10px;
+    padding-right: 10px;
+    position: relative;
+    width: 100%;
+
+    
+  } 
+  hr{    
+    margin: -10px auto;
+    width: 50%;
+
+  }
+  *, :after, :before {
+    box-sizing: border-box;
+}
+#date{
+  text-align: center;
+  font-size: 12px;
+  margin-bottom: 0;
+
+}
+.bread{
+  margin-top: 10px;
+}
+#title{
+  color: #0a2458;
+    flex: 0 0 auto;
+    max-width: 100%;
+    text-align: center;
+    width: 100%;
+    font-variant: normal;
+    line-height: 132%;
+    margin: 0;
+}
+header{
+  text-align: center;
+  font-size: 50px;
+  max-width: 17em;
+  margin: 0 auto;
+  font-size: 45px;
+  line-height: 110%;
+
+}
+header h1{
+  font-size: 50px;
+  font-weight: 500;
+  letter-spacing: -1px;
+}
+.breadcrumb{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0;
+  margin: 0;
+}
+.breadcrumb p{
+  margin-left: 15px;
+  font-size: 16px;
+  color: blueviolet;
+}
+hr{
+  color: rgb(109, 25, 187);
+}
+.introduction,.first-section,.second-section{
+  max-width: 32em;
+  /* text-align: center; */
+  margin: 0 auto;
+  line-height: 180%;
+  font-size: 18px;
+}
+
+.introduction h2,.first-section h2,.second-section h2{
+  text-decoration: underline;
+  font-size: 18px;
+
+}

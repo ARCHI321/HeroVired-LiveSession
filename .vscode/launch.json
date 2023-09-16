@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LinkedListEx1",
+            "request": "launch",
+            "mainClass": "LinkedListEx1",
+            "projectName": "Hero vired_1216a8b1"
+        },
+        {
+            "type": "java",
+            "name": "ListEx1",
+            "request": "launch",
+            "mainClass": "dsa.day1.ListEx1",
+            "projectName": "Hero vired_1216a8b1"
+        },
+        {
+            "type": "java",
+            "name": "ListEx1",
+            "request": "launch",
+            "mainClass": "ListEx1",
+            "projectName": "Hero vired_1216a8b1"
+        },
+        {
+            "type": "java",
+            "name": "ListEx1",
+            "request": "launch",
+            "mainClass": "javaCodes.dsa.day1.ListEx1",
+            "projectName": "Hero vired_1216a8b1"
+        },
+        {
+            "type": "java",
+            "name": "ListEx",
+            "request": "launch",
+            "mainClass": "dataStructures.day2.ListEx",
+            "projectName": "Hero vired_1216a8b1"
+        },
+        {
+            "type": "java",
+            "name": "ListEx",
+            "request": "launch",
+            "mainClass": "dataStructures.day1.ListEx",
+            "projectName": "Hero vired_1216a8b1"
+        },
+        {
+            "type": "java",
             "name": "stringBuilderEx1",
             "request": "launch",
             "mainClass": "javaCodes.day14.stringBuilderEx1",
